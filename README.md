@@ -1,10 +1,16 @@
 # EDEX-3D: Emotion-Aware Modeling for High-Fidelity 3D Facial Expression Reconstruction
 
-<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/emopoi/blob/main/resources/wax.png" alt="VERHM Overview">
+<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/EDEX-3D/blob/main/resources/wax.png" alt="VERHM Overview">
 
 ## About the Project
 
 The proposed approach, EDEX-3D, enhances parametric 3D face model reconstruction to capture nuanced emotional expressions. By integrating emotional detail encoding and decoding with FLAME and Render modules, the project synthesizes realistic 3D facial expressions. Training with deep perceptual emotion analysis improves expression fidelity, surpassing baseline techniques and demonstrating efficacy in health monitoring applications.
+
+# 👁️💬 Architecture
+
+The overview of the proposed methodology.
+
+<img style="max-width: 100%;" src="https://github.com/rizwanchouhan/EDEX-3D/blob/main/resources/overview.jpg" alt="EMOPOI Overview">
 
 ## Installation
 
